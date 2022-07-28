@@ -4,6 +4,7 @@
   "description": "zugelu vuepress-blog",
   "license": "MIT",
   "scripts": {
+    "start":"npm run docs:dev",
     "docs:build": "vuepress build docs",
     "docs:clean-dev": "vuepress dev docs --clean-cache",
     "docs:dev": "vuepress dev docs"

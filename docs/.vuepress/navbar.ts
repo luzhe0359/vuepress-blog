@@ -5,15 +5,9 @@ export default navbar([
   { text: "文章", link: "/article" },
   {
     text: "收藏",
-    prefix: "/posts/",
-    children: [
-      {
-        text: "收藏 链接",
-        prefix: "collection/",
-        children: ["article9"],
-      },
-    ],
+    link: "/posts/collection/",
   },
+  { text: "友链", link: "/posts/link" },
   {
     text: "博客",
     link: "https://www.zugelu.com",

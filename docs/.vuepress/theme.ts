@@ -28,17 +28,20 @@ export default hopeTheme({
   // 文档在仓库中的目录
   docsDir: "vuepress-blog/docs",
 
+  // 向下滚动时自动隐藏导航栏
+  navbarAutoHide: "always",
+
   // navbar
-  navbar: navbar,
+  navbar,
 
   // sidebar
-  sidebar: sidebar,
+  sidebar,
 
   footer: "默认页脚",
 
   displayFooter: true,
 
-  pageInfo: ["Author", "Original", "Date", "Category", "Tag", "PageView"],
+  pageInfo: ["Original", "PageView", "Date", "Category", "Tag"],
 
   blog: {
     description: "一个前端开发者",
@@ -51,11 +54,13 @@ export default hopeTheme({
       Weibo: "https://www.zugelu.com",
       Zhihu: "https://www.zugelu.com",
     },
+    // 文章列表中展示的文章信息
+    articleInfo: ["Original", "PageView", "Date", "Category", "Tag"],
   },
 
   encrypt: {
     config: {
-      "/guide/encrypt.html": ["1234"],
+      "/posts/encrypt/": ["0359"],
     },
   },
 

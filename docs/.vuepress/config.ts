@@ -6,7 +6,7 @@ export default defineUserConfig({
   title: "足各路的小仓库",
   description: "一个收藏了各种奇珍异宝的小仓库",
 
-  base: "/",
+  base: "/vuepress-blog/",
 
   theme,
 });
