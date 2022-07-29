@@ -48,11 +48,10 @@ export default hopeTheme({
     intro: "/intro.html",
     medias: {
       Email: "https://www.zugelu.com",
-      GitHub: "https://www.zugelu.com",
+      GitHub: "https://github.com/luzhe0359",
       QQ: "https://www.zugelu.com",
       Wechat: "https://www.zugelu.com",
-      Weibo: "https://www.zugelu.com",
-      Zhihu: "https://www.zugelu.com",
+      Zhihu: "https://www.zhihu.com/people/zugelu",
     },
     // 文章列表中展示的文章信息
     articleInfo: ["Original", "PageView", "Date", "Category", "Tag"],

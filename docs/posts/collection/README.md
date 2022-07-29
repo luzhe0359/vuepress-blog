@@ -7,6 +7,7 @@ category:
   - 收藏夹
 tag:
   - 收藏夹
+star: true
 description: 收藏了各种奇珍异宝
 ---
 
@@ -16,10 +17,10 @@ description: 收藏了各种奇珍异宝
 
 ## 富文本
 
-### 富文本 H3
+### 富文本
 
-- [v-md-editor](http://ckang1229.gitee.io/vue-markdown-editor/zh/)基于 Vue 开发的 markdown 编辑器组件
-- [v-md-editor](https://code-farmer-i.github.io/vue-markdown-editor/zh/)一个开源的富文本编辑器，旨在实现兼容性和可扩展性
+- [v-md-editor](https://code-farmer-i.github.io/vue-markdown-editor/zh/)基于 Vue 开发的 markdown 编辑器组件
+- [quill](https://quilljs.com/)一个开源的富文本编辑器，旨在实现兼容性和可扩展性
 
 ### js 库
 

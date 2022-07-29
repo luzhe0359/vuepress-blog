@@ -1,1 +1,14 @@
-node_modules
+# dependencies
+node_modules/
+
+# Logs
+
+# lock files
+package-lock.json
+
+# production
+dist/
+
+# VuePress Temp
+**/.vuepress/.cache/
+**/.vuepress/.temp/
