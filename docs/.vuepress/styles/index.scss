@@ -1,11 +1,8 @@
-// collection-container
-.collection-container {
-    ul.sidebar-sub-headers {
-        display: block !important;
-    }
-
-    // 隐藏右侧目录
-    .toc-place-holder {
-        display: none;
+// 隐藏navbar中的链接图标
+.nav-item {
+    a[href*="zugelu"] {
+        span {
+            display: none;
+        }
     }
 }

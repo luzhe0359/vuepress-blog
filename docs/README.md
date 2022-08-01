@@ -15,15 +15,20 @@ projects:
   desc: 足各路的博客
   link: https://www.zugelu.com
 
-- icon: project
+- icon: blog
   name: 简历
   desc: 足各路的简历
   link: https://www.zugelu.com/resume.html
 
-- icon: book
+- icon: linter
+  name: 掘金
+  desc: 足各路的掘金主页
+  link: https://juejin.cn/user/1151943917971031
+
+- icon: interact
   name: 关于
   desc: 关于足各路
-  link: https://www.zugelu.com/about
+  link: /posts/about/
 
 
 footer: 自定义你的页脚文字

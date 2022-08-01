@@ -40,20 +40,24 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "默认页脚",
+  // 是否展示编辑此页链接
+  editLink: false,
+
+  // 是否显示页面贡献者
+  contributors: false,
+
+  footer: '<a href="/vuepress-blog/posts/about/site.html">关于网站</a>',
 
   displayFooter: true,
 
   pageInfo: ["Original", "PageView", "Date", "Category", "Tag"],
 
   blog: {
-    description: "一个前端开发者",
-    intro: "/intro.html",
+    description: "前端小白一枚",
+    intro: "posts/about",
     medias: {
       Email: "https://www.zugelu.com",
       GitHub: "https://github.com/luzhe0359",
-      QQ: "https://www.zugelu.com",
-      Wechat: "https://www.zugelu.com",
       Zhihu: "https://www.zhihu.com/people/zugelu",
     },
     // 文章列表中展示的文章信息
@@ -69,33 +73,14 @@ export default hopeTheme({
   plugins: {
     blog: {
       // 是否为每个页面生成摘录
-      // autoExcerpt: true,
+      autoExcerpt: true,
     },
-
-    // 如果你不需要评论，可以直接删除 comment 配置，
-    // 以下配置仅供体验，如果你需要评论，请自行配置并使用自己的环境，详见文档。
-    // 为了避免打扰主题开发者以及消耗他的资源，请不要在你的正式环境中直接使用下列配置!!!!!
     comment: {
-      /**
-       * Using Giscus
-       */
-      // provider: "Giscus",
-      // repo: "vuepress-theme-hope/giscus-discussions",
-      // repoId: "R_kgDOG_Pt2A",
-      // category: "Announcements",
-      // categoryId: "DIC_kwDOG_Pt2M4COD69",
-
-      /**
-       * Using Twikoo
-       */
-      // provider: "Twikoo",
-      // envId: "https://twikoo.ccknbc.vercel.app",
-
       /**
        * Using Waline
        */
       provider: "Waline",
       serverURL: "https://vuepress-blog-comment.vercel.app",
-    },
+    }
   },
 });

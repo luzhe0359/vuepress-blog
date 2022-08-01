@@ -1,5 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme";
+import plugins from "./plugins";
 
 export default defineUserConfig({
   lang: "zh-CN",
@@ -7,6 +8,8 @@ export default defineUserConfig({
   description: "一个收藏了各种奇珍异宝的小仓库",
 
   base: "/vuepress-blog/",
+
+  // plugins,
 
   theme,
 });
