@@ -28,6 +28,9 @@ export default hopeTheme({
   // 文档在仓库中的目录
   docsDir: "vuepress-blog/docs",
 
+  // 是否全局启用路径导航。
+  breadcrumb: false,
+
   // 向下滚动时自动隐藏导航栏
   navbarAutoHide: "always",
 
@@ -66,7 +69,7 @@ export default hopeTheme({
   plugins: {
     blog: {
       // 是否为每个页面生成摘录
-      autoExcerpt: true,
+      // autoExcerpt: true,
     },
 
     // 如果你不需要评论，可以直接删除 comment 配置，
@@ -76,11 +79,11 @@ export default hopeTheme({
       /**
        * Using Giscus
        */
-      provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      // provider: "Giscus",
+      // repo: "vuepress-theme-hope/giscus-discussions",
+      // repoId: "R_kgDOG_Pt2A",
+      // category: "Announcements",
+      // categoryId: "DIC_kwDOG_Pt2M4COD69",
 
       /**
        * Using Twikoo
@@ -91,8 +94,8 @@ export default hopeTheme({
       /**
        * Using Waline
        */
-      // provider: "Waline",
-      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+      provider: "Waline",
+      serverURL: "https://vuepress-blog-comment.vercel.app",
     },
   },
 });

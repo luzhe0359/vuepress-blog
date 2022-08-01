@@ -2,6 +2,7 @@
 # home: true
 title: 收藏夹
 sidebar: heading
+containerClass: collection-container
 date: 2022-01-09
 category:
   - 收藏夹

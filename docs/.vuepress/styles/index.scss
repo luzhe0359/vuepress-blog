@@ -1,0 +1,11 @@
+// collection-container
+.collection-container {
+    ul.sidebar-sub-headers {
+        display: block !important;
+    }
+
+    // 隐藏右侧目录
+    .toc-place-holder {
+        display: none;
+    }
+}
