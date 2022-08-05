@@ -46,7 +46,7 @@ export default hopeTheme({
   // 是否显示页面贡献者
   contributors: false,
 
-  footer: '<a href="/vuepress-blog/posts/about/site.html">关于网站</a>',
+  footer: '<a href="/vuepress-blog/posts/about/site.html">关于本站</a>',
 
   displayFooter: true,
 

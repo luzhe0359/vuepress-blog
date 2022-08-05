@@ -2,6 +2,7 @@
 # home: true
 title: 加密文章
 # sidebar: heading
+article: false
 date: 2022-01-09
 category:
   - 加密

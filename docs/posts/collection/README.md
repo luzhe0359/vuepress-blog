@@ -3,12 +3,8 @@
 title: 收藏夹
 sidebar: heading
 toc: false
+article: false
 date: 2022-01-09
-category:
-  - 收藏夹
-tag:
-  - 收藏夹
-star: true
 description: 收藏了各种奇珍异宝
 ---
 
@@ -20,6 +16,7 @@ description: 收藏了各种奇珍异宝
 
 - [stackoverflow](https://stackoverflow.com)一个与程序相关的IT技术问答网
 - [V2EX](https://www.v2ex.com)一个主要讨论网络和技术话题的社区，访问者以程序员和设计师为主
+- [电鸭](https://www.v2ex.com)是国内最早的远程工作网站,也是互联网工作者们的聚集地
 - [掘金](https://juejin.cn)一个面向全球中文开发者的技术内容分享与交流平台
 
 
