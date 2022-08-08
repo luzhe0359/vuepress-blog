@@ -49,7 +49,7 @@ const linkData = [
 
   margin: 0 -2rem;
   padding: 1.2rem 0;
-  border-top: 1px solid var(--border-color);
+  // border-top: 1px solid var(--border-color);
 
   transition: border-color var(--color-transition);
 

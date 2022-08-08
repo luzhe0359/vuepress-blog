@@ -19,9 +19,9 @@ description: 关于我自己的一些情况
 ### 社交
 
  - 博客 [https://zugelu.com/](https://zugelu.com/)
- - 收藏 [https://luzhe0359.github.io/vuepress-blog/](https://luzhe0359.github.io/vuepress-blog/)
+ - 收藏 [https://v.zugelu.com](https://v.zugelu.com)
  - 掘金 [https://juejin.cn/user/1151943917971031](https://juejin.cn/user/1151943917971031)
 
  ### 本站
 
- - [关于本站](/vuepress-blog/posts/about/site.html)
+ - [关于本站](/posts/about/site.html)

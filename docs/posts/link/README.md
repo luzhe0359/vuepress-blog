@@ -1,8 +1,8 @@
 ---
-home: true
-title: 友情链接
-heroText: 友链交换
-tagline: 如果可以, 带着你的 🔗, 我们把酒言欢 。
+# home: true
+title: 如果可以, 带着你的 🔗, 我们把酒言欢 。
+# heroText: 友链交换
+# tagline: 如果可以, 带着你的 🔗, 我们把酒言欢 。
 toc: false
 article: false
 pageview: false
@@ -28,4 +28,4 @@ import LinkList from "@LinkList";
 }
 ```
 
-<CommentService />
+<!-- <CommentService /> -->

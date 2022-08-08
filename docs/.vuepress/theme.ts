@@ -3,11 +3,11 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://www.zugelu.com",
+  hostname: "https://v.zugelu.com",
 
   author: {
     name: "足各路",
-    url: "https://www.zugelu.com",
+    url: "https://v.zugelu.com",
   },
 
   iconAssets: "iconfont",
@@ -21,12 +21,8 @@ export default hopeTheme({
   themeColor: {
     blue: "#2196f3",
     red: "#f26d6d",
-    green: "#3eaf7c",
     orange: "#fb9b5f",
   },
-
-  // 文档在仓库中的目录
-  docsDir: "vuepress-blog/docs",
 
   // 是否全局启用路径导航。
   breadcrumb: false,
@@ -46,7 +42,7 @@ export default hopeTheme({
   // 是否显示页面贡献者
   contributors: false,
 
-  footer: '<a href="/vuepress-blog/posts/about/site.html">关于本站</a>',
+  footer: '<a href="/posts/about/site.html">关于本站</a>',
 
   displayFooter: true,
 
