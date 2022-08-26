@@ -4,7 +4,6 @@ title: 如果可以, 带着你的 🔗, 我们把酒言欢 。
 # heroText: 友链交换
 # tagline: 如果可以, 带着你的 🔗, 我们把酒言欢 。
 toc: false
-date: false
 article: false
 pageview: false
 breadcrumb: false
