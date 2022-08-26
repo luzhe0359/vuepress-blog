@@ -1,6 +1,7 @@
 ---
 title: 关于本站
 toc: false
+date: false
 icon: select
 article: false
 pageview: false

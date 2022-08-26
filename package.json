@@ -11,8 +11,20 @@
   },
   "devDependencies": {
     "@vuepress/client": "^2.0.0-beta.49",
+    "@vuepress/plugin-docsearch": "2.0.0-beta.49",
     "vue": "^3.2.36",
     "vuepress": "^2.0.0-beta.49",
     "vuepress-theme-hope": "^2.0.0-beta.87"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search",
+        "@types/react",
+        "react",
+        "react-dom",
+        "webpack"
+      ]
+    }
   }
 }

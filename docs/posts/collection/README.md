@@ -3,8 +3,9 @@
 title: 收藏夹
 sidebar: heading
 toc: false
+icon: launch
 article: false
-date: 2022-01-09
+pageview: false
 description: 收藏了各种奇珍异宝
 ---
 
