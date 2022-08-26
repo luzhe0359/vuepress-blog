@@ -1,4 +1,4 @@
-import docsearchPlugin from "@vuepress/plugin-docsearch";
+// import docsearchPlugin from "@vuepress/plugin-docsearch";
 import { defineUserConfig } from "vuepress";
 import theme from "./theme";
 const path = require('path');
