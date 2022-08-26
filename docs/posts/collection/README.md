@@ -15,7 +15,7 @@ description: 收藏了各种奇珍异宝
 
 ## 社区
 
-- [stackoverflow](https://stackoverflow.com)一个与程序相关的IT技术问答网
+- [stack overflow](https://stackoverflow.com)一个与程序相关的IT技术问答网
 - [V2EX](https://www.v2ex.com)一个主要讨论网络和技术话题的社区，访问者以程序员和设计师为主
 - [电鸭](https://www.v2ex.com)是国内最早的远程工作网站,也是互联网工作者们的聚集地
 - [掘金](https://juejin.cn)一个面向全球中文开发者的技术内容分享与交流平台
@@ -37,6 +37,7 @@ description: 收藏了各种奇珍异宝
 
 ### css 调试
 
+- [Can I use](https://caniuse.com/)查看属性和方法的兼容性
 - [neumorphism](https://neumorphism.io/)生成Soft-UI CSS代码
 
 ### 富文本
@@ -46,14 +47,30 @@ description: 收藏了各种奇珍异宝
 
 ### 压缩
 
-- [squoosh](https://squoosh.app)谷歌推出的一款在线图像压缩工具
+- [squoosh](https://squoosh.app)谷歌推出的一款在线免费图像压缩工具
 - [tinyjpg](https://tinyjpg.com/p)能WebP，JPEG和PNG压缩
+
+
+
+## UI
 
 ### 矢量图标
 
 - [iconfont](https://www.iconfont.cn)国内功能很强大且图标内容很丰富的矢量图标库
+- [processon](https://www.processon.com/)免费在线流程图思维导图，专业强大的作图工具，支持多人实时在线协作
+- [wenshushu](https://www.wenshushu.cn/)一款可以将任意文件，简单、安全、极速传给你朋友的工具
+
+### Emoji表情
+
+- [emojipedia](https://emojipedia.org/)emoji表情
+- [emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)emoji表情备忘录
 
 ## 产品
 
 - [processon](https://www.processon.com/)免费在线流程图思维导图，专业强大的作图工具，支持多人实时在线协作
-- [wenshushu](https://www.wenshushu.cn/)一款可以将任意文件，简单、安全、极速传给你朋友的工具
+- [百度脑图](https://naotu.baidu.com/)便捷的脑图编辑工具 - 控制创意,如此简单
+- [文叔叔](https://www.wenshushu.cn/)一款可以将任意文件，简单、安全、极速传给你朋友的工具
+
+## 其他
+
+ - [30 seconds of code](https://www.30secondsofcode.org/)收集了许多有用的代码小片段
